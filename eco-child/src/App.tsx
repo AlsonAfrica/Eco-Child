@@ -13,10 +13,10 @@ function App() {
       <div>
         <Navbar/>
       </div>
-      <div>
+      <div id="#home">
         <Hero/>
       </div>
-      <div>
+      <div id="#body">
         <Body/>     
       </div>
       <div>
